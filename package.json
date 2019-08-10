@@ -31,13 +31,14 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.9.0",
         "bootstrap": "4.3.1",
+        "gulp-gh-pages": "^0.5.4",
         "jquery": "3.4.1",
         "jquery.easing": "^1.4.1"
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
         "del": "4.1.1",
-        "gulp": "4.0.2",
+        "gulp": "^4.0.2",
         "gulp-autoprefixer": "6.1.0",
         "gulp-clean-css": "4.2.0",
         "gulp-header": "2.0.7",
